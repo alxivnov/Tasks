@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "372b8521-4407-7a44-b862-2bc3017fb0d4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "372b8521-4407-7a44-b862-2bc3017fb0d4" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "372b8521-4407-7a44-b862-2bc3017fb0d4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "795D91C7-F9AE-449B-B3C9-05D7A408717C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "372b8521-4407-7a44-b862-2bc3017fb0d4" : "Pine\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Air Tasks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Air Tasks\/Air Tasks.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/secure-svn.1gb.ru\/pine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "372b8521-4407-7a44-b862-2bc3017fb0d4"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Done.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Today.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WatchKit Glance.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>WatchKit Notification.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Widget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>FA0D4A731807C56800BC66F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA0D4A941807C56800BC66F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA15C24618783D9F005791E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA15C2A21878470A005791E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA3F317719B24B4E0058799D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA3F318F19B24CA80058799D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA53CADC19B8B1C40033A991</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA74E76E1AC73A83002E1520</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA74E7801AC73A83002E1520</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
